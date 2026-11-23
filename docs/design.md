@@ -19,11 +19,13 @@
 3. ใช้ **Codex Desktop** ช่วยนำดีไซน์ไปพัฒนาและปรับโค้ด
 4. ทดลองใช้งานจริง รวมถึงบนมือถือ แล้วแก้ส่วนที่ทำให้สับสนหรือใช้งานไม่สะดวก
 
-![หน้าจอโปรเจกต์ Google Stitch ที่ใช้วางดีไซน์ของ Kotoba Quest](../images/stitch-design.png)
+![แบบร่างหน้า Home Dashboard จาก Google Stitch](../images/stitch-design.jpg)
 
-*หน้าจอทำงานใน Google Stitch แสดงแบบ UI หลายหน้าของโปรเจกต์*
+*แบบร่างหน้า Home Dashboard ที่ส่งออกจาก Google Stitch*
 
-> 📸 **เพิ่มรูป D2 — เปรียบเทียบก่อน/หลัง:** ใช้ภาพ Stitch คู่กับภาพหน้าจอแอปจริงในตำแหน่งใกล้กัน บันทึกไว้ที่ **images/design-to-app.png** เพื่อแสดงว่าดีไซน์ถูกนำไปพัฒนาต่ออย่างไร
+| แบบร่างใน Google Stitch | หน้า Home ในเว็บเวอร์ชันพัฒนา |
+|---|---|
+| ![แบบร่าง Home Dashboard จาก Stitch](../images/stitch-design.jpg) | ![หน้า Home ของ Kotoba Quest](../images/home-screen.png) |
 
 ## หน้าสำคัญที่ออกแบบ
 
@@ -42,14 +44,16 @@
 ### Learning — บทเรียนและการฝึก
 เนื้อหาต้องอ่านง่าย แยกส่วนคำอธิบาย ตัวอย่าง และคำถามให้ชัดเจน รวมถึงบอกผู้เล่นว่ากำลังทำไปถึงไหน
 
-> 📸 **เพิ่มรูป D5 — Learning Screen:** หน้าที่เห็นโจทย์ภาษาญี่ปุ่นและการเลือกคำตอบ ใช้ชื่อ **images/learning-screen.png**
+![บทเรียนคำศัพท์ญี่ปุ่นและคำแปลภาษาไทย](../images/learning-screen.jpg)
 
 ### Boss Battle — นำความรู้มาใช้
 หน้าต่อสู้ต้องให้ผู้เล่นมองเห็น HP, MP, สกิล และคำถามที่ส่งผลต่อการต่อสู้ได้ชัดเจน โดยไม่ซับซ้อนจนลืมเรื่องการเรียน
 
-**ภาพที่มีอยู่ใน README:** images/boss-battle.jpg
+![การต่อสู้กับ Sakura Guardian ในเวอร์ชันพัฒนา](../images/boss-battle-new.png)
 
-> 📸 **เพิ่มรูป D6 (ถ้ามี) — Battle UI ใน Stitch:** ภาพต้นแบบหน้าต่อสู้ก่อนพัฒนา ใช้ชื่อ **images/stitch-battle.png**
+![แบบร่างหน้าต่อสู้กับบอส Kitsune จาก Google Stitch](../images/stitch-battle.jpg)
+
+*แบบร่างการต่อสู้จาก Stitch ในช่วงออกแบบ*
 
 ## สิ่งที่จะปรับต่อ
 
