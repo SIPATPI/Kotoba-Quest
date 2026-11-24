@@ -49,10 +49,6 @@
 
 *Boss Battle — เลือกสกิลและตอบคำถามภาษาญี่ปุ่นเพื่อใช้ท่าต่อสู้*
 
-![ผลการตอบคำถามภาษาญี่ปุ่นระหว่างต่อสู้](images/battle-answer-result.jpg)
-
-*ตัวอย่างคำอธิบายหลังตอบถูกระหว่างต่อสู้*
-
 [**อ่านรายละเอียด Game Systems และการออกแบบ Boss Battle**](docs/game-systems.md)
 
 ## Design & Development
